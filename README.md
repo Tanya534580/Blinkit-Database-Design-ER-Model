@@ -38,11 +38,11 @@ The ER diagram visually represents relationships between entities such as custom
 ---
 
 ## 📁 Project Structure
-├── ER_Diagram/
-│ └── Blinkit_DBMS_ER_Diagram.mwb
-├── SQL_Code/
-│ └── Blinkit_DBMS_Code.sql
-├── README.md
+├- ER_Diagram/
+│ └--- Blinkit_DBMS_ER_Diagram.mwb
+├- SQL_Code/
+│ └- Blinkit_DBMS_Code.sql
+├- README.md
 
 yaml
 Copy code
