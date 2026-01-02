@@ -47,9 +47,9 @@ The ER diagram visually represents relationships between entities such as custom
 │ └- Blinkit_DBMS_Code.sql
 ├- README.md
 
-yaml
-Copy code
-
+<p align="center">
+  <img src="/ER Diagram-1.png" alt="Blinkit Logo" width="800"/>
+</p>
 ---
 
 ## How to Run the Project
