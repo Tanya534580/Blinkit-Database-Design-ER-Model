@@ -1,11 +1,11 @@
 # Blinkit Grocery Delivery DBMS Project
 
-## 📌 Project Overview
+## Project Overview
 This project designs a DBMS-based relational database for Blinkit’s instant grocery delivery platform. It focuses on efficiently managing customers, products, warehouses, delivery partners, orders, inventory, payments, and deliveries while ensuring data integrity, scalability, and real-time order processing.
 
 ---
 
-## 🧩 System Design
+## System Design
 The database is designed using core **DBMS principles**, including:
 - Entity Relationship (ER) Modeling  
 - Normalization (to reduce redundancy)
@@ -16,7 +16,7 @@ The ER diagram visually represents relationships between entities such as custom
 
 ---
 
-## 🗂️ Entities Covered
+## Entities Covered
 - Customers  
 - Products  
 - Warehouses  
@@ -29,7 +29,7 @@ The ER diagram visually represents relationships between entities such as custom
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Database:** MySQL  
 - **Modeling Tool:** MySQL Workbench  
 - **Language:** SQL  
@@ -37,7 +37,7 @@ The ER diagram visually represents relationships between entities such as custom
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ├- ER_Diagram/
 │ └--- Blinkit_DBMS_ER_Diagram.mwb
 ├- SQL_Code/
@@ -49,7 +49,7 @@ Copy code
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 1. Open **MySQL Workbench**
 2. Import the ER diagram file (`.mwb`) to view the database design
 3. Open the SQL file
@@ -58,7 +58,7 @@ Copy code
 
 ---
 
-## 🎯 Key Features
+## Key Features
 - Structured relational database design
 - Efficient order and inventory management
 - Scalable schema suitable for real-time grocery delivery
@@ -66,7 +66,7 @@ Copy code
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Practical application of DBMS concepts
 - Hands-on experience with ER modeling
 - Understanding real-world e-commerce database design
@@ -74,7 +74,7 @@ Copy code
 
 ---
 
-## 📌 Use Case
+## Use Case
 This project is ideal for:
 - DBMS academic submissions
 - Learning database design
@@ -83,8 +83,8 @@ This project is ideal for:
 
 ---
 
-## 👤 Author
-**Tanya**
+## Conclusion
+This project successfully demonstrates the design and implementation of a robust relational database for an instant grocery delivery system like Blinkit. By applying ER modeling, normalization, and relational constraints, the database ensures accuracy, scalability, and efficient data handling, making it suitable for real-world, high-volume order management systems.
 
 ---
 
