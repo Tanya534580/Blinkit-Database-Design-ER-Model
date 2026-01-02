@@ -48,7 +48,7 @@ The ER diagram visually represents relationships between entities such as custom
 ├- README.md
 
 <p align="center">
-  <img src="/ER Diagram-1.png" alt="Blinkit Logo" width="800"/>
+  <img src="/ER Diagram-1.png" alt="ER Diagram" width="500"/>
 </p>
 ---
 
