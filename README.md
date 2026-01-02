@@ -3,6 +3,10 @@
 ## Project Overview
 This project designs a DBMS-based relational database for Blinkit’s instant grocery delivery platform. It focuses on efficiently managing customers, products, warehouses, delivery partners, orders, inventory, payments, and deliveries while ensuring data integrity, scalability, and real-time order processing.
 
+<p align="center">
+  <img src="assets/press-kit_0.webp" alt="Blinkit Logo" width="220"/>
+</p>
+
 ---
 
 ## System Design
